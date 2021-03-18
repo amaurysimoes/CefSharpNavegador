@@ -1,0 +1,10 @@
+C:\#Projetos Automação\#Programas_Apoio\Mini-Navegador\MiniNavegador\bin\Debug\MiniNavegador.exe.config
+C:\#Projetos Automação\#Programas_Apoio\Mini-Navegador\MiniNavegador\bin\Debug\MiniNavegador.exe
+C:\#Projetos Automação\#Programas_Apoio\Mini-Navegador\MiniNavegador\bin\Debug\MiniNavegador.pdb
+C:\#Projetos Automação\#Programas_Apoio\Mini-Navegador\MiniNavegador\obj\Debug\MiniNavegador.csprojAssemblyReference.cache
+C:\#Projetos Automação\#Programas_Apoio\Mini-Navegador\MiniNavegador\obj\Debug\MiniNavegador.Form_mini_navegador.resources
+C:\#Projetos Automação\#Programas_Apoio\Mini-Navegador\MiniNavegador\obj\Debug\MiniNavegador.Properties.Resources.resources
+C:\#Projetos Automação\#Programas_Apoio\Mini-Navegador\MiniNavegador\obj\Debug\MiniNavegador.csproj.GenerateResource.cache
+C:\#Projetos Automação\#Programas_Apoio\Mini-Navegador\MiniNavegador\obj\Debug\MiniNavegador.csproj.CoreCompileInputs.cache
+C:\#Projetos Automação\#Programas_Apoio\Mini-Navegador\MiniNavegador\obj\Debug\MiniNavegador.exe
+C:\#Projetos Automação\#Programas_Apoio\Mini-Navegador\MiniNavegador\obj\Debug\MiniNavegador.pdb
